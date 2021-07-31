@@ -47,10 +47,9 @@ header{
 }
 
 div.scrollmenu {
-  background-color: #333;
+  background-color: #ebe7df;
   overflow: auto;
   white-space: nowrap;
-  color:white;
 }
 
 /*popup css*/
