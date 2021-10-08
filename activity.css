@@ -7,42 +7,6 @@
   background: GhostWhite;
 }
 
-@keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-      }
-    50% {
-      background-position: 100% 50%;
-      }
-    100% {
-      background-position: 0% 50%;
-      }
-}
-    
-    
-@media screen and (min-width: 1500px) {
-    header{
-        padding-left: 2% !important;
-        padding-right: 1% !important;
-    }
-}
-
-
-@media screen and (min-width: 800px) {
-    header{
-        padding-left: 2%;
-        padding-right: 0%;
-    }
-}
-
-
-
-header{
-    height: 48px;
-    transition: height 2s, padding 2s;
-
-}
-
 div.scrollmenu {
   background-color: #ebe7df;
   overflow: auto;
